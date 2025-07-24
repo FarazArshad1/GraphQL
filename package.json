@@ -1,0 +1,27 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarazArshad1/GraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarazArshad1/GraphQL/issues"
+  },
+  "homepage": "https://github.com/FarazArshad1/GraphQL#readme",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "apollo-server-core": "^3.5.0",
+    "graphql": "^15.7.2",
+    "nodemon": "^3.1.10"
+  }
+}
